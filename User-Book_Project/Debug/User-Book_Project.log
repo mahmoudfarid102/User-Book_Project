@@ -1,0 +1,6 @@
+﻿  Book.cpp
+  BookList.cpp
+  Generating Code...
+C:\Users\Lenovo\source\repos\User-Book_Project\BookList.cpp(40): warning C4715: 'BookList::searchBook': not all control paths return a value
+C:\Users\Lenovo\source\repos\User-Book_Project\BookList.cpp(51): warning C4715: 'BookList::searchBook': not all control paths return a value
+  User-Book_Project.vcxproj -> C:\Users\Lenovo\source\repos\User-Book_Project\Debug\User-Book_Project.exe
